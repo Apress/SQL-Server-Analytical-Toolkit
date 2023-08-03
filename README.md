@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*SQL Server Analytical Toolkit*](https://www.link.springer.com/book/10.1007/978-1-4842-8667-8) by Angelo Bobak (Apress, 2022).
+This repository accompanies [*SQL Server Analytical Toolkit*](https://www.link.springer.com/book/10.1007/978-1-4842-8667-8) by Angelo Bobak (Apress, 2023).
 
 [comment]: #cover
 ![Cover image](978-1-4842-8667-8.jpg)
