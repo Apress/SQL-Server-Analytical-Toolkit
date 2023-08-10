@@ -1,0 +1,3 @@
+cd <repo>
+rm -rf *
+git init
